@@ -1,0 +1,6 @@
+{
+  "name": "CatatUsaha",
+  "description": "Aplikasi pencatatan keuangan (pemasukan & pengeluaran detail), stok gudang, dan rencana belanja offline-first untuk UMKM dan warung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
